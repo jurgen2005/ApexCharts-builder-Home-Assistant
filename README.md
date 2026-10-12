@@ -5,6 +5,8 @@ Works with: apexcharts-card 2.3.1-apex8 and 2.3.0-apex8, the builds with ApexCha
 
 The builder's interface is in Dutch. Where this document names a button, tab or field, the Dutch label is given as it appears on screen, with the English meaning in parentheses.
 
+Discuss here https://community.home-assistant.io/t/apexcharts-card-a-highly-customizable-graph-card/272877
+
 ## What it is
 
 A dedicated page in the Home Assistant sidebar (custom panel) where you build an apexcharts-card visually:
